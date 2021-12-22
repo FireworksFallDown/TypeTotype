@@ -32,5 +32,8 @@ change COCO dataset to VOC type, change VOC to YOLO type...
 ③ you can ignore the save_path if you only want to view label
 
 ④ For Windows, I also offer an application which named Type2Type.exe, you can install it in your Windows by the Setup.exe, and run the Type2Type.exe
+like this:
+![image](https://user-images.githubusercontent.com/96516755/147052687-13270e97-9391-4de3-a521-4e1817e969bd.png)
+you can select your path and mode, then press the START.
 
 ⑤ all of your path and file name should be English, otherwise the program can't work
