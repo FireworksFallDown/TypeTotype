@@ -17,6 +17,10 @@ change COCO dataset to VOC type, change VOC to YOLO type...
 
 
 ### How to use:
+
+**request**
+ensure those package: opencv-python, json, xml, numpy installed in your environment
+
 ① **you should modify the CLASSES in the `my_config.py` to the categories of your dataset**
 
 ② then you can run this command line under the Type2Type directory
